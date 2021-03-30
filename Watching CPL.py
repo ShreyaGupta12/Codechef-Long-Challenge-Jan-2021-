@@ -1,4 +1,3 @@
-Python:
 import sys
 sys.setrecursionlimit(200000000)
 from itertools import accumulate
