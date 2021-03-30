@@ -1,4 +1,3 @@
-Python:
 from sys import stdin, stdout
 from bisect import bisect_left,bisect_right
 from math import ceil
